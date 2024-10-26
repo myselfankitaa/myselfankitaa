@@ -17,5 +17,6 @@
 
 # 📫 How to reach me:
 
-- You can reach me via [📧](ankitaa.mishra@gmail.com)
+- You can reach me via [![Email](https://img.icons8.com/ios-glyphs/30/000000/email.png)](mailto:ankitaa.mishra@gmail.com)
+
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ankita-ranjan-mishra).
